@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h3>📘 Histórico</h3>
+
+<div class="card p-3 shadow-sm">
+    {% if dados %}
+        {% for d in dados %}
+            <div class="border-bottom py-2">
+                <small>{{ d.tipo }}</small><br>
+
+                {% if d.tipo == "energia_simulacao" %}
+                    ⚡ Energia {{ d.data }} → {{ d.consumo }} kWh → R$ {{ d.total|round(2) }}
+                
+                {% elif d.tipo == "agua_simulacao" %}
+                    💧 Água {{ d.data }} → {{ d.consumo_unidades }} unidades → R$ {{ d.total|round(2) }}
+
+                {% else %}
+                    📄 {{ d.tipo }} {{ d.referencia }} → {{ d.consumo_informado }} → R$ {{ d.valor_real }}
+                {% endif %}
+            </div>
+        {% endfor %}
+    {% else %}
+        <p class="text-center">Nenhum registro encontrado.</p>
+    {% endif %}
+</div>
+{% endblock %}

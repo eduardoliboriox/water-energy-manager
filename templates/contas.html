@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<h3>📥 Registrar Conta Real</h3>
+
+<form method="POST" class="card p-3 shadow-sm">
+
+    <label>Tipo</label>
+    <select name="tipo" class="form-select mb-3" required>
+        <option value="Energia">Energia</option>
+        <option value="Água">Água</option>
+    </select>
+
+    <label>Referência (ex: 09/2025)</label>
+    <input type="text" name="referencia" class="form-control mb-3" required>
+
+    <label>Consumo informado</label>
+    <input type="text" name="consumo" class="form-control mb-3" required>
+
+    <label>Valor (R$)</label>
+    <input type="number" step="0.01" name="valor" class="form-control mb-3" required>
+
+    <button class="btn btn-success w-100">Registrar</button>
+</form>
+{% endblock %}

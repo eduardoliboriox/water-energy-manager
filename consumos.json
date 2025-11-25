@@ -1,0 +1,259 @@
+[
+  {
+    "tipo": "Energia",
+    "referencia": "",
+    "consumo": "",
+    "valor_real": 0,
+    "data_registro": "19/10/2025 10:55"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 24,
+    "consumo_unidades": 23541,
+    "total": 423321.42,
+    "timestamp": "2025-10-19T11:01:41.728992"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:01:45.976708"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.48,
+    "consumo_unidades": 21,
+    "total": 196.62,
+    "timestamp": "2025-10-19T11:01:52.273692"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:02:04.104917"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.475,
+    "consumo_unidades": 16,
+    "total": 131.5,
+    "timestamp": "2025-10-19T11:03:01.796991"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.475,
+    "consumo_unidades": 16,
+    "total": 131.5,
+    "timestamp": "2025-10-19T11:03:10.996812"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "10/2025",
+    "anterior": 12805,
+    "atual": 12824,
+    "consumo": 19,
+    "total": 29.3,
+    "timestamp": "2025-10-19T11:03:16.914499"
+  },
+  {
+    "tipo": "energia",
+    "referencia": "10/2025",
+    "consumo_informado": "158",
+    "valor_real": 154.89,
+    "data_registro": "19/10/2025 11:05"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "10/2025",
+    "anterior": 12805,
+    "atual": 12824,
+    "consumo": 19,
+    "total": 29.3,
+    "timestamp": "2025-10-19T11:05:22.844274"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "10/2025",
+    "anterior": 12805,
+    "atual": 12824,
+    "consumo": 19,
+    "total": 29.3,
+    "timestamp": "2025-10-19T11:05:31.235949"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:05:40.360447"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:05:41.538389"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:05:50.550828"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:06:04.410268"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:06:35.651116"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:06:43.289902"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "10/2025",
+    "anterior": 12805,
+    "atual": 12824,
+    "consumo": 19,
+    "total": 29.3,
+    "timestamp": "2025-10-19T11:06:51.134752"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "10/2025",
+    "anterior": 12805,
+    "atual": 12824,
+    "consumo": 19,
+    "total": 29.3,
+    "timestamp": "2025-10-19T11:08:04.119811"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "10/2025",
+    "anterior": 12805,
+    "atual": 12824,
+    "consumo": 19,
+    "total": 29.3,
+    "timestamp": "2025-10-19T11:08:27.010833"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:08:39.939465"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "10/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-10-19T11:08:43.193139"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "11/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-11-23T17:32:10.101260"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "11/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-11-23T17:32:10.500824"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "11/2025",
+    "anterior": 0.459,
+    "atual": 0.466,
+    "consumo_unidades": 7,
+    "total": 42.56,
+    "timestamp": "2025-11-23T17:32:13.044499"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "11/2025",
+    "anterior": 0.456,
+    "atual": 0.46,
+    "consumo_unidades": 4,
+    "total": 24.32,
+    "timestamp": "2025-11-24T21:55:06.141666"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "11/2025",
+    "anterior": 0.456,
+    "atual": 0.46,
+    "consumo_unidades": 4,
+    "total": 24.32,
+    "timestamp": "2025-11-24T21:56:56.083392"
+  },
+  {
+    "tipo": "agua_simulacao",
+    "data": "11/2025",
+    "anterior": 0.456,
+    "atual": 0.48,
+    "consumo_unidades": 24,
+    "total": 250.58999999999997,
+    "timestamp": "2025-11-24T21:57:06.592807"
+  },
+  {
+    "tipo": "energia_simulacao",
+    "data": "11/2025",
+    "anterior": 0.8,
+    "atual": 0.9,
+    "consumo": 0.09999999999999998,
+    "total": 12.220360199999998,
+    "timestamp": "2025-11-24T21:57:25.261788"
+  }
+]
