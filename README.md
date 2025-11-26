@@ -3,6 +3,8 @@
 Aplicação web simples e funcional para registrar, calcular e acompanhar consumos reais de **energia elétrica**, **água** e **contas mensais**.  
 Desenvolvido em **Python + Flask**, com interface responsiva em **Bootstrap 5**.
 
+Visualize a aplicação real através do link no final deste README.md.
+
 ---
 
 ## 🚀 Funcionalidades
@@ -77,6 +79,7 @@ python app.py
 ## 🔗 Acesso ao Sistema (Deploy)
 
 O sistema está disponível online pelo Render:
+Uso contramedidas até na versão free para a página não fechar por inatividade, caso feche, aguarde 50 segundos.
 
 ➡️ **https://gerenciador-de-consumo-energia-agua.onrender.com**
 
