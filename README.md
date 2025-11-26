@@ -1,7 +1,6 @@
 # 🧮 Gerenciador de Consumo – Energia, Água e Contas
 
-Aplicação web simples e funcional para registrar, calcular e acompanhar consumos reais de **energia elétrica**, **água** e **contas mensais**.  
-Desenvolvido em **Python + Flask**, com interface responsiva em **Bootstrap 5**.
+Aplicação web simples e funcional para registrar, calcular e acompanhar consumos reais de **energia elétrica**, **água** e **contas mensais**. Desenvolvido em **Python + Flask**, com interface responsiva em **Bootstrap 5**.
 
 Visualize a aplicação real através do link no final deste README.md.
 
